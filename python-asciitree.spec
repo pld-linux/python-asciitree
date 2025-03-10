@@ -9,7 +9,7 @@ Summary:	ASCII Trees
 Summary(pl.UTF-8):	Drzewka ASCII
 Name:		python-asciitree
 Version:	0.3.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/asciitree/
